@@ -1,4 +1,4 @@
-# resume
+# resume optimizer
 
 Resume-as-code for Tony Nguyen.
 
